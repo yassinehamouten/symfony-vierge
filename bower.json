@@ -1,0 +1,21 @@
+{
+  "name": "blog-symfony",
+  "authors": [
+    "Hamouten Yassine <yassinehamouten@yahoo.fr>"
+  ],
+  "description": "blog dveloppé avec symfony3",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
